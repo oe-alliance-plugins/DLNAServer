@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "this is dlna server using minidlna",
+  "description_recipe": "this is dlna server using minidlna",
+  "history_source_dir": "DLNAServer",
+  "internal_package_name": "enigma2-plugin-extensions-dlnaserver",
+  "module_dir_name": "DLNAServer",
+  "output_subdir": "DLNAServer",
+  "package_name": "enigma2-plugin-extensions-dlnaserver",
+  "plugin_src_rel": "DLNAServer",
+  "python_package": "DLNAServer",
+  "rdepends_recipe": "minidlna",
+  "replaces": "",
+  "repo_name": "DLNAServer",
+  "rrecommends": "",
+  "rreplaces": ""
+}
