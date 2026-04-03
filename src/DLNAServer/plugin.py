@@ -5,17 +5,14 @@ import os
 from enigma import eTimer
 
 from Screens.Screen import Screen
-from Screens.MessageBox import MessageBox
 
-from Components.Button import Button
 from Components.Label import Label
 from Components.ConfigList import ConfigListScreen
 from Components.Sources.StaticText import StaticText
-from Components.ActionMap import NumberActionMap, ActionMap
+from Components.ActionMap import ActionMap
 from Components.config import config, ConfigSelection, getConfigListEntry, ConfigText, ConfigDirectory, ConfigYesNo, ConfigSubsection
 from Components.FileList import FileList
 
-from Tools.Directories import resolveFilename, SCOPE_PLUGINS
 from . import _
 
 config.plugins.dlnaserver = ConfigSubsection()
@@ -346,12 +343,12 @@ class DLNAServer(ConfigListScreen, Screen):
 				value = self.oldConfig.get(key)
 				if value is None or value.strip() == '':
 					self.oldConfig[key] = default
-			except:
+			except Exception:
 				self.oldConfig[key] = default
 
 		try:
 			model = os.popen('cat /proc/stb/info/boxtype').read().strip()
-		except:
+		except OSError:
 			model = 'My'
 		setDefault('friendly_name', '%s DLNA Server' % (model.upper()))
 		setDefault('media_dirV', '/media/dlna/Videos')
