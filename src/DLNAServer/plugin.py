@@ -335,7 +335,7 @@ class DLNAServer(ConfigListScreen, Screen):
 					k += v[0]
 					v = v[2:]
 				self.oldConfig[k] = v
-			except:
+			except Exception:
 				pass
 
 		def setDefault(key, default):
