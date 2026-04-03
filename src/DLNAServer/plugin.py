@@ -152,7 +152,7 @@ class DLNAServer(ConfigListScreen, Screen):
 		if isRunning():
 			green_btm_str = 'Stop'
 		self["key_green"].setText(green_btm_str)
-		#self["information"].setText(' ')
+		# self["information"].setText(' ')
 
 	def cbGreenTimer(self):
 		self.updateGreenTimer.stop()
