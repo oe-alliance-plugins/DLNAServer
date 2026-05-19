@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: openATV\n"
@@ -16,56 +16,74 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Log Map"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Log niveau"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Annuleer"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "Autostart voor DLNA Browser inschakelen"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Log bestand inschakelen"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Sluit af"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Muziek map"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Foto map"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Herstel"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Sla op"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Server naam"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Start"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Video map"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "debug"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "error"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "uit"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "waarschuwing"

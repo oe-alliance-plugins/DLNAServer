@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: litvcom\n"
 "Language-Team: \n"
@@ -17,56 +17,74 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Каталог журнала"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Уровень журнала"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Отменить"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "Включить автозапуск для DLNA-сервера"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Включить ведение журнала"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Выход"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Каталог Музыка"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Каталог Фото"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Сброс"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Сохранить"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Имя сервера"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Начать"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Каталог Видео"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "Отладка"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "Ошибка"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "выкл"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "Предупреждение"

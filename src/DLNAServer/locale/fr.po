@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-23 15:20+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-30 21:36+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -18,56 +18,74 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Répertoire de Log"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Niveau de Log"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Annuler"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "Activer le démarrage automatique pour le serveur DLNA"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Activer le journal"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Quitter"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Répertoire Musiques"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Répertoire Image"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Réinitialiser"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Sauver"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Nom du serveur"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Démarrer"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Répertoire Vidéo"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "debug"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "erreur"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "arrêt"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "avertissement"

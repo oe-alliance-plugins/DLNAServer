@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TransCodingSetup\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2022-11-04 07:59+0100\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <>\n"
@@ -16,56 +16,74 @@ msgstr ""
 "X-Generator: Lokalize 22.08.2\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Directory Log"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Livello Log"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Annulla"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "Abilita avvio automatico Server DLNA"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Logging abilitato"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Esci"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Directory Musica"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Directory Immagini"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Reset"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Salva"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Nome Server"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Avvia"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Directory Video"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "debug"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "errore"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "off"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "avviso"

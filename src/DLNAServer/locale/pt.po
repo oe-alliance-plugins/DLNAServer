@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: nunigaia\n"
 "Language-Team: BH Team\n"
@@ -17,56 +17,74 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Pasta de Logs"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Nível de Logs"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Cancelar"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "Ativar início automático do servidor DLNA"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Ativar depuração"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Sair"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Pasta de Música"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "OK"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Pasta de Imagens"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Redefinir"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Salvar"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Nome do Servidor"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Pasta de Filmes"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Pasta"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "depuração"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "erro"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "off"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "Avisar se o espaço livre é menor do que (KB):"

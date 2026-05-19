@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: openATV\n"
@@ -16,56 +16,74 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: .\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - Žurnalo katalogas"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - Žurnalo apimtis"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "Atšaukti"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "DLNA serverį paleisti automatiškai"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "Įjungti žurnalą"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "Užverti"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "Muzikos katalogas"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "Gerai"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "Nuotraukų katalogas"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "Atkurti"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "Išsaugoti"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "Serverio pavadinimas"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "Pradėti"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "Vaizdo įrašų katalogas"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "šalinti klaidas"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "klaida"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "išjungti"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "perspėti"

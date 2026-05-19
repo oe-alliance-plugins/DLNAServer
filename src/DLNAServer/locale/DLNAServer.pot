@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the DLNAServer package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:48+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,56 +17,74 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr ""
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr ""
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr ""
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr ""
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr ""
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr ""
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr ""
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr ""
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr ""
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr ""
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr ""
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr ""
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr ""
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr ""
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr ""
 
+#: ../plugin.py:265
 msgid "error"
 msgstr ""
 
+#: ../plugin.py:265
 msgid "off"
 msgstr ""
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: DLNAServer\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-07 14:06+0000\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2019-04-12 10:56+0300\n"
 "Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
 "Language-Team: mosad\n"
@@ -13,56 +13,74 @@ msgstr ""
 "X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+#: ../plugin.py:274
 msgid "    - Log Directory"
 msgstr "    - مسار السجلات"
 
+#: ../plugin.py:273
 msgid "    - Log Level"
 msgstr "    - مستوى السجلات"
 
+#: ../plugin.py:62
 msgid "Cancel"
 msgstr "إلغاء"
 
+#: ../plugin.py:275
 msgid "Enable Autostart for DLNA Server"
 msgstr "تمكين التشغيل التلقائي لخادم مشاركة الاجهزة للوسائط عبر الشبكة"
 
+#: ../plugin.py:272
 msgid "Enable Logging"
 msgstr "تمكين تسجيل الدخول"
 
+#: ../plugin.py:138
 msgid "Exit"
 msgstr "تسجيل الخروج"
 
+#: ../plugin.py:270
 msgid "Music Directory"
 msgstr "دليل الموسيقى"
 
+#: ../plugin.py:61
 msgid "OK"
 msgstr "موافق"
 
+#: ../plugin.py:271
 msgid "Picture Directory"
 msgstr "دليل الصور"
 
+#: ../plugin.py:141
 msgid "Reset"
 msgstr "إعاده الضبط"
 
+#: ../plugin.py:140
 msgid "Save"
 msgstr "                                            حفظ"
 
+#: ../plugin.py:268
 msgid "Server Name"
 msgstr "اسم الخادم"
 
+#: ../plugin.py:139
 msgid "Start"
 msgstr "تشغيل"
 
+#: ../plugin.py:269
 msgid "Video Directory"
 msgstr "دليل الفيديو"
 
+#: ../plugin.py:265
 msgid "debug"
 msgstr "التصحيح"
 
+#: ../plugin.py:265
 msgid "error"
 msgstr "خطاء"
 
+#: ../plugin.py:265
 msgid "off"
 msgstr "لا يعمـل"
 
+#: ../plugin.py:265
 msgid "warn"
 msgstr "تحذير"
